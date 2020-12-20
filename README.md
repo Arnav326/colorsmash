@@ -1,2 +1,2 @@
-# colorsmash
-like color crash but it smash
+# p5.play-boilerplate
+Boiler plate for p5.play
